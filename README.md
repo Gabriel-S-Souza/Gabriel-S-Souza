@@ -3,7 +3,7 @@ Olá! 👋 Sou um desenvolvedor de software com expertise em Flutter e uma paix�
 
 Além do Flutter, também tenho contato com Python e Golang para o desenvolvimento de APIs. Atualmente, estou focado em aprimorar minhas habilidades full stack, aventurando-me também no back-end.
 
-#### 🧰 Languages and Tools
+#### 🧰 Linguagens e ferramentas
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,golang,python,fastapi,postgresql,typescript,javascript,nestjs,firebase,git)](https://skillicons.dev)
 
 
