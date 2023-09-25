@@ -1,16 +1,18 @@
-### Hi there 👋
+### Gabriel S Souza
+Olá! 👋 Sou um desenvolvedor de software com expertise em Flutter e uma paixão por criar soluções inovadoras. Com 2 anos de experiência no desenvolvimento Flutter, estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-<!--
-**Gabriel-S-Souza/Gabriel-S-Souza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Além do Flutter, também tenho contato com Python e Golang para o desenvolvimento de APIs. Atualmente, estou focado em aprimorar minhas habilidades full stack, aventurando-me também no back-end.
 
-Here are some ideas to get you started:
+#### 🧰 Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,golang,python,fastapi,postgresql,typescript,javascript,nestjs,firebase,git)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+  <summary><h3>👨‍💻 Mais</h3></summary>
+    Formação Acadêmica: <br>
+    - Análise e Desenvolvimento de Sistemas (cursando). <br><br>
+    Experiência Profissional: <br>
+    - Dev Flutter na Hostaraguaia | Dev Freelancer | Servidor Público. <br><br>
+    Tecnologias e Ferramentas: <br>
+    - Flutter | Dart | Golang | Python | FastAPI | PostgreSQL | Firebase | TypeScript | JavaScript | Nest.js <br><br>
+    <a href="https://www.linkedin.com/in/gabriel-s-souza/">Meu linkedin</a>
