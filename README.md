@@ -1,7 +1,7 @@
 ### Gabriel S Souza
 Olá! 👋 Sou um desenvolvedor de software com expertise em Flutter e uma paixão por criar soluções inovadoras. Com 2 anos de experiência no desenvolvimento Flutter, estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-Atualmente, tenho me empenhado em aprimorar minhas habilidades full stack, aventurando-me também no back-end, dessa forma, além do Flutter, também tenho tido contato com Typescript e Python para o desenvolvimento de APIs.
+Atualmente, tenho me empenhado em aprimorar minhas habilidades full stack, aventurando-me também no back-end. Dessa forma, além do Flutter, também tenho tido contato com Typescript e Python para o desenvolvimento de APIs.
 
 #### 🧰 Linguagens e ferramentas
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,nestjs,python,fastapi,golang,postgresql,firebase,git)](https://skillicons.dev)
