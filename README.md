@@ -12,7 +12,7 @@ Atualmente, tenho me empenhado em aprimorar minhas habilidades full stack, avent
     Formação Acadêmica: <br>
     - Análise e Desenvolvimento de Sistemas (cursando). <br><br>
     Experiência Profissional: <br>
-    - Dev Flutter na Hostaraguaia | Dev Freelancer | Servidor Público. <br><br>
+    - Dev Flutter na Verzel | Dev Flutter na Hostaraguaia | Dev Freelancer | Servidor Público. <br><br>
     Tecnologias e Ferramentas: <br>
     - Flutter | Dart | Python | FastAPI | PostgreSQL | Firebase | TypeScript | JavaScript | Nest.js | Golang <br><br>
     <a href="https://www.linkedin.com/in/gabriel-s-souza/">Meu linkedin</a>
