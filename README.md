@@ -1,18 +1,18 @@
 ### Gabriel S Souza
-Olá! 👋 Sou um desenvolvedor de software com expertise em Flutter e uma paixão por criar soluções inovadoras. Com 2 anos de experiência no desenvolvimento Flutter, estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias.
+Olá! 👋 Sou um desenvolvedor fullstack com expertise em Flutter. Tenho 3 anos de experiência no desenvolvimento de software e estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-Atualmente, tenho me empenhado em aprimorar minhas habilidades full stack, aventurando-me também no back-end. Dessa forma, além do Flutter, também tenho tido contato com Typescript e Python para o desenvolvimento de APIs.
+Além do `Flutter` também trabalho com `React Native`, `Next`, `React` e já tive contato com `NestJs`, `FastApi` e `Go`.
 
-#### 🧰 Linguagens e ferramentas
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,typescript,nestjs,python,fastapi,golang,postgresql,firebase,git)](https://skillicons.dev)
+#### 🧰 Tech's
+[![My Skills](https://skillicons.dev/icons?i=flutter,react,next,typescript,nestjs,nodejs,python,fastapi,golang,postgresql,firebase,git)](https://skillicons.dev)
+
 
 
 <details>
-  <summary><h3>👨‍💻 Mais</h3></summary>
     Formação Acadêmica: <br>
     - Análise e Desenvolvimento de Sistemas (cursando). <br><br>
     Experiência Profissional: <br>
-    - Dev Flutter na Verzel | Dev Flutter na Hostaraguaia | Dev Freelancer | Servidor Público. <br><br>
+    - Dev FullStack na Verzel | Dev Flutter na Hostaraguaia | Dev Freelancer | Servidor Público. <br><br>
     Tecnologias e Ferramentas: <br>
-    - Flutter | Dart | Python | FastAPI | PostgreSQL | Firebase | TypeScript | JavaScript | Nest.js | Golang <br><br>
-    <a href="https://www.linkedin.com/in/gabriel-s-souza/">Meu linkedin</a>
+    - Flutter | Dart | React Native | Next | React | PostgreSQL | Firebase | TypeScript | JavaScript | Nest.js | Python | FastAPI | Golang <br><br>
+    <a href="https://www.linkedin.com/in/gabriel-s-souza/">Linkedin</a>
