@@ -1,7 +1,7 @@
 ### Gabriel S Souza
 Olá! 👋 Sou um desenvolvedor fullstack com expertise em Flutter. Tenho 3 anos de experiência no desenvolvimento de software e estou constantemente buscando aprimorar minhas habilidades e explorar novas tecnologias.
 
-Além do `Flutter` também trabalho com `React Native`, `Next`, `React` e já tive contato com `NestJs`, `FastApi` e `Go`.
+Além do `Flutter` também trabalho com `Next` e `React` e já tive contato com `NestJs`, `Express`, `FastApi` e `Go`.
 
 #### 🧰 Tech's
 [![My Skills](https://skillicons.dev/icons?i=flutter,react,next,typescript,nestjs,nodejs,python,fastapi,golang,postgresql,firebase,git)](https://skillicons.dev)
